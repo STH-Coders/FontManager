@@ -13,7 +13,7 @@ A Simple, Site-Specific WordPress Plugin to Host Google Fonts Locally and Reduce
 
 ### Getting Started <a name = "getting_started"></a>
 
-These instructions will help you recreate a version of the project on your local machine for development and testing. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+These instructions will help you recreate a version of the project on your local machine for development and testing. See [usage](#usage) for deploying the project on a live system.
 
 ### Prerequisites
 
