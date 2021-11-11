@@ -29,13 +29,13 @@ What things you need to install the software and how to install them.
 
 - Clone this repo to your local environment.
 
-- Run `composer update` and `composer install` in the `tools/php-csfixer` folder.
+- Run `composer update` and `composer install` in the '/tools/php-csfixer' folder.
 
 - Delete the fonts in '/assets/fonts/[Dosis, Exo2, Iceberg, Lato]' and create new folders to represent your font-families.
 
 - Unzip the `.zip` files from Google Webfonts Helper into their respective directories.
 
-- Delete the CSS in '/assets/css/font-manager.css' and replace it with the applicable CSS you copied earlier.
+- Delete the CSS in '/assets/css/FontManager.css' and replace it with the applicable CSS you copied earlier.
 
 ### Formatting
 
