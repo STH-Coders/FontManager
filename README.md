@@ -43,7 +43,7 @@ What things you need to install the software and how to install them.
 
 ## Usage []()
 
-- Once you have added the fonts you need and the CSS, compress all the files into a `.zip` and FontManager is ready for installation.
+- Once you have added the fonts you need and the CSS, compress the files in the assets folder along with the FontManager.php file into a `.zip` and FontManager is ready for installation.
 
 - Consider testing functionality in a WP dev enviroment before installing the plugin on a live website if at all possible.
 
