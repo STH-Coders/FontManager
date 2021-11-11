@@ -11,7 +11,7 @@
 
 A Simple, Site-Specific WordPress Plugin to Host Google Fonts Locally and Reduce Page Load Speed.
 
-### Getting Started <a name = "getting_started"></a>
+### Getting Started []()
 
 These instructions will help you recreate a version of the project on your local machine for development and testing. See [usage](#usage) for deploying the project on a live system.
 
@@ -23,13 +23,13 @@ What things you need to install the software and how to install them.
 
 - Use the FILEPATH prefix below to create your CSS, then copy the output to a temporary file; you will need it again soon.
 
->**Customize folder prefix (optional):** `../fonts/%FontName%/`
+> **Customize folder prefix (optional):** `../fonts/%FontName%/`
 
-### Installing <a name = "install"></a>
+### Installing []()
 
 - Clone this repo to your local environment.
 
-- Run `composer install` and optionally `composer update`.
+- Run `composer update` and `composer install` in the `tools/php-csfixer` folder.
 
 - Delete the fonts in '/assets/fonts/[Dosis, Exo2, Iceberg, Lato]' and create new folders to represent your font-families.
 
@@ -41,7 +41,7 @@ What things you need to install the software and how to install them.
 
 - php-cs-fixer
 
-## Usage <a name = "usage"></a>
+## Usage []()
 
 - Once you have added the fonts you need and the CSS, compress all the files into a `.zip` and FontManager is ready for installation.
 

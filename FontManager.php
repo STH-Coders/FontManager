@@ -2,7 +2,7 @@
 /*
 Plugin Name: font-manager
 Description: A Simple, Site-Specific WordPress Plugin to Host Google Fonts Locally and Reduce Page Load Speed.
-Version: 0.1.0
+Version: 0.2.0
 Author: STHCoders
 Author URI: https://www.linkedin.com/showcase/sthcoders/
 */
