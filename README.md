@@ -1,5 +1,7 @@
 # FontManager
 
+v2.0.0
+
 ## Table of Contents
 
 - [Getting Started](#getting_started)
