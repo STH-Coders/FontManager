@@ -1,5 +1,6 @@
-# Font Manager
-v2.1.0
+# FontManager
+
+v2.0.0
 
 ## Table of Contents
 
@@ -10,7 +11,7 @@ v2.1.0
 
 ## About
 
-A simple, site-specific WordPress plugin to host Google Fonts locally and reduce Page Load Speed.
+A Simple, Site-Specific WordPress Plugin to Host Google Fonts Locally and Reduce Page Load Speed.
 
 ### Getting Started []()
 
@@ -24,7 +25,7 @@ What things you need to install the software and how to install them.
 
 - Use the FILEPATH prefix below to create your CSS, then copy the output to a temporary file; you will need it again soon.
 
-> **Customize folder prefix (optional):** `../fonts/%fontname%/`
+> **Customize folder prefix (optional):** `../fonts/%FontName%/`
 
 ### Installing []()
 
@@ -32,11 +33,11 @@ What things you need to install the software and how to install them.
 
 - Run `composer update` and `composer install` in the '/tools/php-csfixer' folder.
 
-- Delete the fonts in '/assets/fonts/[dosis, exo2, iceberg]' and create new folders to represent your font-families.
+- Delete the fonts in '/assets/fonts/[Dosis, Exo2, Iceberg, Lato]' and create new folders to represent your font-families.
 
 - Unzip the `.zip` files from Google Webfonts Helper into their respective directories.
 
-- Delete the CSS in '/assets/css/font-manager.css' and replace it with the applicable CSS you copied earlier.
+- Delete the CSS in '/assets/css/FontManager.css' and replace it with the applicable CSS you copied earlier.
 
 ### Formatting
 
@@ -44,7 +45,7 @@ What things you need to install the software and how to install them.
 
 ## Usage []()
 
-- Once you have added the fonts you need and the CSS, compress the files in the assets folder along with the font-manager.php file into a `.zip` and font-manager is ready for installation.
+- Once you have added the fonts you need and the CSS, compress the files in the assets folder along with the FontManager.php file into a `.zip` and FontManager is ready for installation.
 
 - Consider testing functionality in a WP dev enviroment before installing the plugin on a live website if at all possible.
 
