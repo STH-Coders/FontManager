@@ -1,0 +1,143 @@
+/* dosis-300 - latin */
+@font-face {
+	font-family: 'Dosis';
+	font-style: normal;
+	font-weight: 300;
+	src: local(''),
+		url('../fonts/dosis-v25-latin-300.woff2') format('woff2'),
+		/* Chrome 26+, Opera 23+, Firefox 39+ */
+		url('../fonts/dosis-v25-latin-300.woff') format('woff');
+	/* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* dosis-regular - latin */
+@font-face {
+	font-family: 'Dosis';
+	font-style: normal;
+	font-weight: 400;
+	src: local(''),
+		url('../fonts/dosis-v25-latin-regular.woff2') format('woff2'),
+		/* Chrome 26+, Opera 23+, Firefox 39+ */
+		url('../fonts/dosis-v25-latin-regular.woff') format('woff');
+	/* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* dosis-500 - latin */
+@font-face {
+	font-family: 'Dosis';
+	font-style: normal;
+	font-weight: 500;
+	src: local(''),
+		url('../fonts/dosis-v25-latin-500.woff2') format('woff2'),
+		/* Chrome 26+, Opera 23+, Firefox 39+ */
+		url('../fonts/dosis-v25-latin-500.woff') format('woff');
+	/* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* dosis-700 - latin */
+@font-face {
+	font-family: 'Dosis';
+	font-style: normal;
+	font-weight: 700;
+	src: local(''),
+		url('../fonts/dosis-v25-latin-700.woff2') format('woff2'),
+		/* Chrome 26+, Opera 23+, Firefox 39+ */
+		url('../fonts/dosis-v25-latin-700.woff') format('woff');
+	/* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* exo-2-300 - latin */
+@font-face {
+	font-family: 'Exo 2';
+	font-style: normal;
+	font-weight: 300;
+	src: local(''),
+		url('../fonts/exo-2-v18-latin-300.woff2') format('woff2'),
+		/* Chrome 26+, Opera 23+, Firefox 39+ */
+		url('../fonts/exo-2-v18-latin-300.woff') format('woff');
+	/* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* exo-2-regular - latin */
+@font-face {
+	font-family: 'Exo 2';
+	font-style: normal;
+	font-weight: 400;
+	src: local(''),
+		url('../fonts/exo-2-v18-latin-regular.woff2') format('woff2'),
+		/* Chrome 26+, Opera 23+, Firefox 39+ */
+		url('../fonts/exo-2-v18-latin-regular.woff') format('woff');
+	/* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* exo-2-500 - latin */
+@font-face {
+	font-family: 'Exo 2';
+	font-style: normal;
+	font-weight: 500;
+	src: local(''),
+		url('../fonts/exo-2-v18-latin-500.woff2') format('woff2'),
+		/* Chrome 26+, Opera 23+, Firefox 39+ */
+		url('../fonts/exo-2-v18-latin-500.woff') format('woff');
+	/* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* exo-2-700 - latin */
+@font-face {
+	font-family: 'Exo 2';
+	font-style: normal;
+	font-weight: 700;
+	src: local(''),
+		url('../fonts/exo-2-v18-latin-700.woff2') format('woff2'),
+		/* Chrome 26+, Opera 23+, Firefox 39+ */
+		url('../fonts/exo-2-v18-latin-700.woff') format('woff');
+	/* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* iceberg-regular - latin */
+@font-face {
+	font-family: 'Iceberg';
+	font-style: normal;
+	font-weight: 400;
+	src: local(''),
+		url('../fonts/iceberg-v18-latin-regular.woff2') format('woff2'),
+		/* Chrome 26+, Opera 23+, Firefox 39+ */
+		url('../fonts/iceberg-v18-latin-regular.woff') format('woff');
+	/* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* oxygen-300 - latin */
+@font-face {
+	font-family: 'Oxygen';
+	font-style: normal;
+	font-weight: 300;
+	src: local(''),
+		url('../fonts/oxygen-v14-latin-300.woff2') format('woff2'),
+		/* Chrome 26+, Opera 23+, Firefox 39+ */
+		url('../fonts/oxygen-v14-latin-300.woff') format('woff');
+	/* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* oxygen-regular - latin */
+@font-face {
+	font-family: 'Oxygen';
+	font-style: normal;
+	font-weight: 400;
+	src: local(''),
+		url('../fonts/oxygen-v14-latin-regular.woff2') format('woff2'),
+		/* Chrome 26+, Opera 23+, Firefox 39+ */
+		url('../fonts/oxygen-v14-latin-regular.woff') format('woff');
+	/* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* oxygen-700 - latin */
+@font-face {
+	font-family: 'Oxygen';
+	font-style: normal;
+	font-weight: 700;
+	src: local(''),
+		url('../fonts/oxygen-v14-latin-700.woff2') format('woff2'),
+		/* Chrome 26+, Opera 23+, Firefox 39+ */
+		url('../fonts/oxygen-v14-latin-700.woff') format('woff');
+	/* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
